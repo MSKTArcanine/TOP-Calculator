@@ -6,7 +6,6 @@ operatorCrea();
 operatorButtons();
 boutondenba();
 screenCrea();
-screenWrite("b");
 
 function screenCrea(){
     const p = document.createElement("p");
